@@ -6,7 +6,7 @@ public class Charizard extends Applet{
 	
 	public void paint (Graphics page)
 	{
-		page.drawLine(664, 132, 652, 107);
+//		page.drawLine(664, 132, 652, 107);
 // 		page.drawLine(652, 107, 646, 89);
 // 		page.drawLine(646, 89, 640, 68);
 // 		page.drawLine(640, 68, 637, 59);
